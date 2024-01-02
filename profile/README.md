@@ -1,4 +1,4 @@
-# CatalystiX - Trusted Staking Service Validator
+# CatalystiX - Infrastructure and Trusted Staking Service Validator
 
 Welcome to CatalystiX, your go-to solution for secure and reliable staking services. Whether you're a tech-savvy individual or a crypto enthusiast, CatalystiX provides a trusted platform for staking your digital assets.
 
